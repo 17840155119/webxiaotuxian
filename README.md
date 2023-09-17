@@ -2,6 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+url：http://47.109.71.80:82 
 注意此项目目前只开放 新鲜好物-->购物车-->订单 和 导航栏-->全部分类功能
 
 ## Recommended IDE Setup
